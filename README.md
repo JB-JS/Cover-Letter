@@ -14,5 +14,5 @@
 
 ## 기술
 ### 주로 사용하는 언어
--  ~~javaScript~~
+-  **javaScript**
 - 
