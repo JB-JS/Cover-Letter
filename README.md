@@ -1,5 +1,5 @@
 # 정범수 [Jung Beomsu]
-> [PortFolio](https://jungdev.tistory.com)
+> [PortFolio]()
 ## 반갑습니다!
 호기심을 갖고 계속해서 역량을 키워나가는 프론트엔드 개발자입니다. javaScript&jQuery 기반 웹 개발을 주로 했습니다.
 
@@ -17,8 +17,10 @@
 -  ***javaScript***
 - _PHP_
 
-## 사용 프레임워크
+
+## 사용 라이브러리
 - ***jQuery***
 - _React_
+## 사용 프레임워크
 
 ## 개발목록
