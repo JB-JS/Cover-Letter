@@ -25,7 +25,6 @@ javaScript&jQuery 기반 웹 개발을 주로 했습니다.
   - ***React***
 
   ### 사용 프레임워크
-  - ***Laravel***
   - ***Express***
   
 ## 개발목록
